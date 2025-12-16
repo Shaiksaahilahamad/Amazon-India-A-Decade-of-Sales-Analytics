@@ -134,42 +134,42 @@ The project answers **20+ business questions**, including:
 ## ⚙️ How to Run the Project
 
 ### Step 1: Clone the Repository
-git clone <repository-url>
-cd Amazon_Sales_Analytics
+- git clone <repository-url>
+- cd Amazon_Sales_Analytics
 
 ---
 
 ### Step 2: Create Virtual Environment (Optional)
-python -m venv venv
-venv\Scripts\activate # Windows
-source venv/bin/activate # Mac/Linux
+- python -m venv venv
+- venv\Scripts\activate # Windows
+- source venv/bin/activate # Mac/Linux
 
 ---
 
 ### Step 3: Install Dependencies
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ---
 
 ### Step 4: Add Raw Data
-Place all Amazon sales CSV files inside:
+- Place all Amazon sales CSV files inside:
 data/raw/
 
 Example:
-amazon_india_2015.csv
-amazon_india_2016.csv
+- amazon_india_2015.csv
+- amazon_india_2016.csv
 
 ---
 
 ### Step 5: Configure Database
-Update `.env` with your MySQL credentials  
-Ensure MySQL server is running.
+- Update `.env` with your MySQL credentials  
+- Ensure MySQL server is running.
 
 ---
 
 ### Step 6: Run the Project
-python main.py
+- python main.py
 
 ---
 
@@ -211,13 +211,6 @@ Business Insights
 **Name:** Saahil Ahamad  
 **Batch:** AIML-C-WD-E-B20  
 
----
 
-## ✅ Project Status
-✔ Completed  
-✔ Fully Automated  
-✔ Evaluation Ready  
-
----
 
 ⭐ *If you find this project useful, feel free to star the repository!* ⭐
