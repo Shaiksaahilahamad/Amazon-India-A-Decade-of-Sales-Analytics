@@ -174,17 +174,19 @@ Example:
 ---
 
 ## 🔄 Execution Flow
-Raw Data
-↓
-Data Cleaning
-↓
-Cleaned Dataset
-↓
-MySQL Database
-↓
-EDA & Visualizations
-↓
-Business Insights
+## 🔄 Project Workflow
+
+Raw Data  
+⬇️  
+Data Cleaning  
+⬇️  
+Cleaned Dataset  
+⬇️  
+MySQL Database  
+⬇️  
+EDA & Visualizations  
+⬇️  
+Business Insights  
 
 
 ---
