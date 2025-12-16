@@ -30,27 +30,26 @@ The project demonstrates how raw e-commerce data can be transformed into **actio
 
 ## 📂 Project Structure
 Amazon_Sales_Analytics/
-│
 ├── data/
-│   ├── raw/                    # Raw Amazon sales CSV files
-│   └── cleaned/                # Cleaned & processed datasets
+│ ├── raw/ # Raw Amazon sales CSV files
+│ └── cleaned/ # Cleaned & processed datasets
 │
 ├── scripts/
-│   ├── data_cleaning.py        # Data preprocessing & cleaning logic
-│   ├── database_setup.py       # MySQL database & table creation
-│   ├── eda_analysis.py         # 20+ EDA & business analysis modules
-│   └── config.py               # Database configuration settings
+│ ├── data_cleaning.py # Data preprocessing & cleaning
+│ ├── database_setup.py # MySQL database & table creation
+│ ├── eda_analysis.py # 20+ EDA & business analysis
+│ └── config.py # Database configuration
 │
-├── plots/                      # Auto-generated EDA visualizations
+├── plots/ # Auto-generated EDA visualizations
 │
 ├── logs/
-│   └── pipeline_errors.log     # Error & execution logs
+│ └── pipeline_errors.log # Error & execution logs
 │
-├── .env                        # Database credentials (ignored in GitHub)
-├── requirements.txt            # Python dependencies
-├── main.py                     # Main pipeline execution file
-├── nan_report.txt              # Missing value analysis report
-└── README.md                   # Project documentation
+├── .env # Database credentials
+├── requirements.txt # Python dependencies
+├── main.py # Main execution file
+├── nan_report.txt # Missing value analysis
+└── README.md # Project documentation
 
 
 
