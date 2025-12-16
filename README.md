@@ -94,11 +94,11 @@ The project demonstrates how raw e-commerce data can be transformed into **actio
   - Inserts cleaned data
 
 ### `.env` Configuration Example
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=your_password
-DB_NAME=amazon_sales
-DB_PORT=3306
+- DB_HOST=localhost
+- DB_USER=root
+- DB_PASSWORD=your_password
+- DB_NAME=amazon_sales
+- DB_PORT=3306
 
 
 ---
